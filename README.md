@@ -8,6 +8,8 @@ A production-grade Retrieval-Augmented Generation system built with FastAPI, Lan
 
 ## Architecture
 
+![Enterprise RAG Knowledge Assistant Architecture](docs/architecture.png)
+
 ```
 Client
   │
